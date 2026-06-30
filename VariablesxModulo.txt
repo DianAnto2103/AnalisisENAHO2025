@@ -1,0 +1,24 @@
+MOD_01 — Vivienda y hogar
+Material del piso - P103
+Material de las paredes - P102
+Material del techo - P103A
+Abastecimiento de agua - P110, P110A1, P110A, P110A_MODIFICADA, P110C, P110C1, P110C2, P110C3, P110D, P110E; T110 (recodificada)
+Tipo de servicio higiénico/desagüe - P111A; T111A (recodificada)
+Alumbrado eléctrico - P1121
+Número de habitaciones/dormitorios - P104, P104A
+Zona (urbano/rural) - ESTRATO
+Tipo de vivienda - P101
+
+MOD_02 — Miembros del hogar
+Relación de parentesco (para identificar jefe) - P203
+Edad - P208A (años) y P208B (meses)
+Sexo - P207
+
+MOD_03 — Educación
+Nivel educativo alcanzado - P301A
+
+MOD_34 — Sumarias (módulo base)
+Ingreso per cápita del hogar
+Línea de pobreza monetaria
+Gasto per cápita (alternativa de ingreso)
+
